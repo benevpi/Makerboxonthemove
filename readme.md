@@ -25,4 +25,4 @@ Add a piece or two that you don't need that you think other people would be inte
 
 
 ## Stuff that's been made with bits from the box
-(if you want, add a description or image of something you've made with bits from the box).
+(if you want, add a description, link to, or image of something you've made with bits from the box).
