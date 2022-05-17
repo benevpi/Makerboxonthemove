@@ -1,6 +1,6 @@
 # Makerbox on the move
 
-This project is in the great tradition of The Travelling Hackerbox (https://hackaday.io/project/7373-travelling-hacker-box) and The Great Internet Migratory Box Of Electronic Junk (https://tgimboej.org/Main_Page).
+This project is in the tradition of The Travelling Hackerbox (https://hackaday.io/project/7373-travelling-hacker-box) and The Great Internet Migratory Box Of Electronic Junk (https://tgimboej.org/Main_Page).
 
 Basically, it's a box of bits that electronics enthusiasts might enjoy playing with. When you receive a box, have a look and take a bit or two that you think look entertaining.
 
