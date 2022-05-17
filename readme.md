@@ -21,7 +21,7 @@ Add a piece or two that you don't need that you think other people would be inte
 ## Log of makerbox movements 
 (when you recieve it, drop a message in her. If you want, you can also add a picture or link to a video).
 ### Makerbox 1
-1. emfcamp
+1. emfcamp 2022
 
 
 ## Stuff that's been made with bits from the box
